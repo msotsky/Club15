@@ -1,0 +1,25 @@
+body{
+    padding:20px;
+    background: url(https://cap-pele.com/images/headersMobile/accueil-header-cage-mobile.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:black;
+}
+p{
+    color:black;
+}
+p2{
+    color:blue;
+}
+input[type=button] {
+ padding:10px;
+ margin:20px 0px;
+ border:1px solid;
+}
+table, th, td {
+    border: 1px solid black;
+    color:black;
+}
+
